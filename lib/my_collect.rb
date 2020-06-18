@@ -1,2 +1,2 @@
-my_colloect(array)
+def my_collect(array)
 
